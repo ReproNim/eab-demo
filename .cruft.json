@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/ReproNim/reproschema-protocol-cookiecutter",
+  "commit": "d821cbb1d107e92ae664dd0ddea6bf7433e6cf59",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "protocol_name": "eab-demo",
+      "__protocol_slug": "eab_demo",
+      "github_org": "repronim",
+      "protocol_description": "a demo for eab meeting",
+      "number_of_activities": "5",
+      "full_name": "repronim",
+      "email": "repronim@email.org",
+      "__author": "repronim <repronim@email.org>",
+      "license": "MIT",
+      "_template": "https://github.com/ReproNim/reproschema-protocol-cookiecutter"
+    }
+  },
+  "directory": null
+}
